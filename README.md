@@ -1,5 +1,5 @@
 <a href="https://github.com/annisam23" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/denycode-dev/denycode-dev?label=profile%20updated&style=flat-square"></a>
-# HELLO I AM Annisa Maulida Rahma  <a href="https://github.com/denycode-dev?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+# HELLO I AM Annisa Maulida Rahma 
 ## I AM Junior WEB DEVELOPER
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
