@@ -26,4 +26,4 @@ Currently focused on learning in College STTNF
 * [NODE.JS & EXPRESS.JS](https://nodejs.org/en/) - the amazing tool for backend building
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisam23)](https://github.com/annisam23/github-readme-stats)
+
