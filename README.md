@@ -14,19 +14,19 @@ I'm Annisa Maulida Rahma, Still need to learn a lot.
 
 ### Skills
 
-- 🔍 Test automation tools: [Selenium]
-- 🌐 Web technologies: [HTML, CSS, JavaScript,PHP]
-- 🧪 Testing methodologies: [Agile, Scrum]
+- 🔍 Test automation tools: Selenium
+- 🌐 Web technologies: HTML, CSS, JavaScript,PHP
+- 🧪 Testing methodologies: Agile, Scrum
 
 ### Education
 
-- 🎓 Undergraduate Student in Informatics Engineering, [STT Terpadu Nurul Fikri]
+- 🎓 Undergraduate Student in Informatics Engineering, STT Terpadu Nurul Fikri
 
 ### Find Me
 
-- 📧 Email: [annisamrahma23@gmail.com]
+- 📧 Email: annisamrahma23@gmail.com
 - 💼 LinkedIn: [Annisa Maulida Rahma](https://www.linkedin.com/in/annisa-maulidaa/)
-- 🌐 Website: [Annisa Maulida Rahma]()
+- 🌐 Website: [Annisa Maulida Rahma](https://annisam23.github.io/NewPortofolio/)
 
 ### Contact
 
