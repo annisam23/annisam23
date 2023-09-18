@@ -18,10 +18,6 @@ I'm Annisa Maulida Rahma, Still need to learn a lot.
 - 🌐 Web technologies: HTML, CSS, JavaScript,PHP
 - 🧪 Testing methodologies: Agile, Scrum
 
-### Education
-
-- 🎓 Undergraduate Student in Informatics Engineering, STT Terpadu Nurul Fikri
-
 ### Find Me
 
 - 📧 Email: annisamrahma23@gmail.com
