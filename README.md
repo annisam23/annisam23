@@ -6,7 +6,7 @@ I'm Annisa Maulida Rahma, Still need to learn a lot.
 ### What I Do
 
 - 🌐 Web development
-- 🕵️‍♀️ Manual and automated testing of web and mobile applications
+- 🕵️‍♀️ Manual and automated testing of web applications
 - 🐛 Bug tracking, reporting, and verification
 - 📋 Test case design and execution
 - 🤝 Collaborating with development and product teams
