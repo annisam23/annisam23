@@ -1,25 +1,32 @@
 
 ## Welcome to My Profile! 👋
 
-I'm [Annisa Maulida Rahma], a software developer with a passion for [Your Field or Technology of Interest]. I have experience in [Brief Description of Your Experience or Work], and I enjoy contributing to meaningful open-source projects.
+I'm Annisa Maulida Rahma, Still need to learn a lot.
 
 ### What I Do
 
-- 🌐 Web development and cloud-based application building
-- 🚀 Driving innovation in [Your Technology of Interest]
-- 💬 Sharing knowledge and experiences on [Your Social Media]
+- 🌐 Web development
+- 🕵️‍♀️ Manual and automated testing of web and mobile applications
+- 🐛 Bug tracking, reporting, and verification
+- 📋 Test case design and execution
+- 🤝 Collaborating with development and product teams
+- 📈 Continuous learning and improvement
 
-### Current Projects
+### Skills
 
-- 📁 [Your Project Name](Link to Project) - Brief description of your project.
-- 🌟 [Other Projects](Link to Other Projects) - Other open-source projects I've contributed to.
+- 🔍 Test automation tools: [Selenium]
+- 🌐 Web technologies: [HTML, CSS, JavaScript,PHP]
+- 🧪 Testing methodologies: [Agile, Scrum]
+
+### Education
+
+- 🎓 Undergraduate Student in Informatics Engineering, [STT Terpadu Nurul Fikri]
 
 ### Find Me
 
 - 📧 Email: [annisamrahma23@gmail.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
-- 🌐 Website: [Your Personal Website]
+- 💼 LinkedIn: [Annisa Maulida Rahma](https://www.linkedin.com/in/annisa-maulidaa/)
+- 🌐 Website: [Annisa Maulida Rahma]()
 
 ### Contact
 
