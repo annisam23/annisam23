@@ -30,4 +30,3 @@ If you're interested in collaborating or have any questions, feel free to reach 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=annisam23&count_private=true&show_icons=true&include_all_commits=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisam23)](https://github.com/annisam23/github-readme-stats)
-kalau mau nama kita gimana
