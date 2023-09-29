@@ -3,8 +3,6 @@
 
 I'm Annisa Maulida Rahma, Still need to learn a lot.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisam23)](https://github.com/annisam23/github-readme-stats)
-
 ### What I Do
 
 - 🌐 Web development
@@ -29,3 +27,5 @@ I'm Annisa Maulida Rahma, Still need to learn a lot.
 ### Contact
 
 If you're interested in collaborating or have any questions, feel free to reach out to me via email or social media. I'm always open to networking and discussions!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annisam23)](https://github.com/annisam23/github-readme-stats)
