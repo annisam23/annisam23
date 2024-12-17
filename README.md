@@ -14,7 +14,7 @@ I'm Annisa Maulida Rahma, Still need to learn a lot.
 
 ### Skills
 
-- 🔍 Test automation tools: Selenium
+- 🔍 Test automation tools: Selenium, Katalon
 - 🌐 Web technologies: HTML, CSS, JavaScript,PHP
 - 🧪 Testing methodologies: Agile, Scrum
 
