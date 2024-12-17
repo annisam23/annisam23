@@ -22,7 +22,7 @@ I'm Annisa Maulida Rahma, Still need to learn a lot.
 
 - 📧 Email: annisamrahma23@gmail.com
 - 💼 LinkedIn: [Annisa Maulida Rahma](https://www.linkedin.com/in/annisa-maulidaa/)
-- 🌐 Website: [Annisa Maulida Rahma](https://annisam23.github.io/NewPortofolio/)
+- 🌐 Website: [Annisa Maulida Rahma](https://maulidaaar.my.id/)
 
 ### Contact
 
